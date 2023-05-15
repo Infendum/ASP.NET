@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HWLesson345e6r7.props" />
+</Project>

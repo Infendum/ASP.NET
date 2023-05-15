@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Алга Казакстан\\source\\repos\\HWLessonn2\\HWLessonn2\\wwwroot\\img\\gl-4-960x540.jpg",
+      "PackagePath": "staticwebassets\\img\\gl-4-960x540.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HWLessonn2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HWLessonn2.props",
+      "PackagePath": "build\\HWLessonn2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HWLessonn2.props",
+      "PackagePath": "buildMultiTargeting\\HWLessonn2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HWLessonn2.props",
+      "PackagePath": "buildTransitive\\HWLessonn2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

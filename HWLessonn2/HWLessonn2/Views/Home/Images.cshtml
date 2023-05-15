@@ -1,0 +1,27 @@
+﻿@using HWLessonn2.Models;
+@model List<Products>
+<h1>Products</h1>
+<br/>
+<table>
+	<thead>
+		<tr>
+		<th>Id</th>
+		<th>Name</th>
+		<th>Price</th>
+		<th>Description</th>
+		<th>Image</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (Products item in Model)
+		{
+			<tr>
+			<td>@item.Id</td>
+			<td>@item.Name</td>
+			<td>@item.Price</td>
+			<td>@item.Description</td>
+					<img src="/Img/@item.PathToImage"/>
+			</tr>
+		}
+	</tbody>
+</table>

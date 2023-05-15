@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "z4wfhrS79s7rT9GxjIzyh+RRt2W61cPbtNZ0B+w5XMo=",
+  "Source": "HWLessonn2",
+  "BasePath": "_content/HWLessonn2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HWLessonn2\\wwwroot",
+      "Source": "HWLessonn2",
+      "ContentRoot": "C:\\Users\\Алга Казакстан\\source\\repos\\HWLessonn2\\HWLessonn2\\wwwroot\\",
+      "BasePath": "_content/HWLessonn2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Алга Казакстан\\source\\repos\\HWLessonn2\\HWLessonn2\\wwwroot\\img\\gl-4-960x540.jpg",
+      "SourceId": "HWLessonn2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Алга Казакстан\\source\\repos\\HWLessonn2\\HWLessonn2\\wwwroot\\",
+      "BasePath": "_content/HWLessonn2",
+      "RelativePath": "img/gl-4-960x540.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\gl-4-960x540.jpg"
+    }
+  ]
+}
